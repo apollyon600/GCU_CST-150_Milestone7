@@ -1,0 +1,34 @@
+﻿using System.Windows.Forms;
+
+namespace Milestone7.BusinessLayer
+{
+    internal class Item
+    {
+        public string ImagePath { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public int Quantity { get; set; }
+
+        public PictureBox PictureBox { get; set; }
+        public int x;
+        public int y;
+        public Label Label { get; set; }
+        public Item() { }
+
+        public void UpdateWithNewPictureBox(PictureBox pictureBox)
+        {
+            PictureBox = pictureBox;
+            Label.Text = Name;
+        }
+
+        public void IncrementQty()
+        {
+            Quantity++;
+        }
+
+        public void DecrementQty()
+        {
+            Quantity--;
+        }
+    }
+}

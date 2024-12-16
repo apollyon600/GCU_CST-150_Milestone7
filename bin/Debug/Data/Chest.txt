@@ -1,0 +1,27 @@
+;;0
+Dirt;Plain dirt;4
+Dirt;Plain dirt;4
+Cobblestone;Rough stone for construction;10
+Obsidian;A grassy block;6
+Dirt;Plain dirt;8
+Dirt;Plain dirt;2
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0
+;;0

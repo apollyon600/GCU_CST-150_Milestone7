@@ -1,0 +1,36 @@
+Grass_Block;A shiny block of gold;63
+Chest;hu;2
+null
+null
+Sand;Soft and granular;114
+null
+null
+null
+null
+null
+null
+Glass;Very see through;5
+null
+Obsidian;A grassy block;11
+null
+Dirt;Plain dirt;4
+Coal_Block;Glowing block of energy;2
+Redstone_Block;;8
+null
+Stone;A solid stone block;20
+Dirt;Plain dirt;4
+null
+null
+Cobblestone;Rough stone for construction;16
+Bedrock;Unbreakable and immovable;1
+Gold_Block;Extremely hard and durable;2
+null
+null
+null
+null
+null
+null
+Obsidian;A grassy block;3
+Obsidian;A grassy block;2
+null
+Dirt;Plain dirt;4
